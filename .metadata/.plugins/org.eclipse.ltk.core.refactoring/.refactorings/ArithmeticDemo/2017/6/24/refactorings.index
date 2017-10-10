@@ -1,0 +1,5 @@
+1497436480593	Extract local variable 'hashMap'
+1497436737427	Extract local variable 'entrySet'
+1497436869899	Extract local variable 'object'
+1497436947945	Extract local variable 'iterator'
+1497436985457	Extract local variable 'next'

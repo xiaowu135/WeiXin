@@ -1,0 +1,11 @@
+INDEX VERSION 1.127
+G:\WeiXin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\64974067.index
+\api\src\main\java
+G:\WeiXin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\920213149.index
+\weixinCourse\src
+G:\WeiXin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2177668396.index
+\api\src\main\java
+G:\WeiXin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3213659270.index
+\api\src\main\java
+G:\WeiXin\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3136831901.index
+\api\src\main\java

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.xiaowu"/>
+			<item value="spring-boot-test-master"/>
+			<item value="tymeleaf.study2"/>
+			<item value="com.zslin"/>
+			<item value="com.yuanmeng.springdemo"/>
+			<item value="com.dudu"/>
+			<item value="springboot-demo"/>
+			<item value="springboot-session-demo"/>
+		</list>
+		<list key="name">
+			<item value="chapter2"/>
+		</list>
+		<list key="artifactId">
+			<item value="spring-boot-test-master7"/>
+			<item value="spring-boot-test-master6"/>
+			<item value="spring-boot-test-master5"/>
+			<item value="spring-boot-test-master4"/>
+			<item value="spring-boot-test-master3"/>
+			<item value="spring-boot-test-master2"/>
+			<item value="spring-boot-test-master1"/>
+			<item value="spring-boot-test-master"/>
+			<item value="com.xiaowu"/>
+			<item value="tymeleaf.study5"/>
+			<item value="tymeleaf.study4"/>
+			<item value="tymeleaf.study3"/>
+			<item value="tymeleaf.study2"/>
+			<item value="tymeleaf.study1"/>
+			<item value="basic"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\WQ\Desktop\5566ac27000119d700000000\Weixin-master"/>
+			<item value="C:\Users\WQ\Desktop\redisses-master\redisses-spike"/>
+			<item value="C:\Users\WQ\Desktop\redisses-master\redisses-mq"/>
+			<item value="C:\Users\WQ\Desktop\redisses-master\redisses-lock"/>
+			<item value="C:\Users\WQ\Desktop\redisses-master\redisses-common"/>
+			<item value="C:\Users\WQ\Desktop\redisses-master\redisses-client"/>
+			<item value="C:\Users\WQ\Desktop\redis"/>
+			<item value="C:\Users\WQ\Desktop\CrapApi.V2-master\api"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="G:\WeiXin\tymeleaf.study1"/>
+			<item value="G:\WeiXin\HttpClient"/>
+			<item value="G:\WeiXin\springboot-demo\src\main\java\com\xiaowu\Chapter1Application1.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

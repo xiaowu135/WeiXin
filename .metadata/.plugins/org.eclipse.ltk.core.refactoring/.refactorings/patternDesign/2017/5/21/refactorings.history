@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.xiaowu.model.Auth&apos; to &apos;Author&apos;&#x0D;&#x0A;- Original project: &apos;patternDesign&apos;&#x0D;&#x0A;- Original element: &apos;org.xiaowu.model.Auth&apos;&#x0D;&#x0A;- Renamed element: &apos;org.xiaowu.model.Author&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Auth&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.xiaowu.model{Auth.java[Auth" matchStrategy="1" name="Author" qualified="false" references="true" similarDeclarations="false" stamp="1495874940347" textual="false" version="1.0"/>
+</session>
